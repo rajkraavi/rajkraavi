@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  (href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=110&lines=🤖+AI+Engineer+%7C+LLM+Architect;🧠+RAG+%7C+MLOps+%7C+Computer+Vision+%7C+NLP;🚀+Turning+Raw+Data+into+Intelligent+Systems;✨+Let%27s+Build+the+Future+Together" alt="Typing SVG" />
   </a>
 </div>
