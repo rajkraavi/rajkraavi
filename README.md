@@ -177,54 +177,6 @@ me.say_hi()
 <!--                  CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajkraavi/rajkraavi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-> 💡 **To enable the snake animation**, add this GitHub Action to your repo at `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkraavi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🔭 Currently Exploring
 
 <div align="center">
