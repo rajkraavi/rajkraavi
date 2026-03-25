@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.api/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj%20Raavi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj%20Raavi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
